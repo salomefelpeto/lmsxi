@@ -1,0 +1,18 @@
+1. Nombre del propietario de la agenda.
+//nombre
+
+2. Teléfono de casa del propietario.
+//propietario /telefono
+
+3. Nombres y apellidos de los contactos de la agenda.
+//contactos 
+
+4. Nombre e identificador de cada contacto.
+//contactos
+
+5. Datos del contacto con identificador p02.
+ //contactos /id @p02
+
+6. Identificadores de los contactos que tienen móvil.
+
+
