@@ -1,0 +1,12 @@
+1. Nombre de los módulos que se imparten en el instituto.
+//modulos 
+2. Nombre de los módulos del ciclo ASIR.
+//modulos //ciclo
+3. Nombre de los módulos que se imparten en el segundo curso de cualquier ciclo.
+//curso /modulo/nombre
+4. Nombre de los módulos de menos de 5 horas semanales.
+//modulo [horas_semanales < 5]/nombre
+5. Nombre de los módulos que se imparten en el primer curso de ASIR.
+//curso[@nombre='ASIR' and @curso='1']/modulo/nombre
+6. Horas semanales de los módulos de más de 3 horas semanales.
+//modulo[horas_semanales > 3]/horas_semanales
